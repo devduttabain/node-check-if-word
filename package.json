@@ -1,7 +1,7 @@
 {
   "name": "check-if-word",
   "version": "1.0.2",
-  "description": "check if the word exist in the language configured, the language could be english or spanish. built on top of check-word by ",
+  "description": "check if the word exist in the language configured, the language could be english or spanish. built on top of check-word by  [s0c5] < david.barinas.dev @gmail.com >",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
@@ -24,6 +24,5 @@
     "url": "https://github.com/devduttabain/node-check-if-word/issues"
   },
   "homepage": "https://github.com/devduttabain/node-check-if-word",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
