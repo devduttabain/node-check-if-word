@@ -1,4 +1,4 @@
-# check-word
+# check-if-word
 
 check if the word exist in the language configured, the language could be english or spanish. built on top of check-word by 
 [s0c5]<david.barinas.dev@gmail.com>. 
