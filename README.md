@@ -1,6 +1,7 @@
 # check-word
 
-check if the word exist in the language configured, the language could be english or spanish. built on top of check-word by [s0c5]<david.barinas.dev@gmail.com>
+check if the word exist in the language configured, the language could be english or spanish. built on top of check-word by 
+[s0c5]<david.barinas.dev@gmail.com>. 
 
 ### install
 
@@ -18,13 +19,17 @@ words.check('dog'); // true
 words.check('perro'); // false
 words.check('hi'); // true
 
+
+words.getValidWords(["ajsk", "no", "object", "opal", "perl", "perlpali"]); // [ 'no', 'object', 'opal' ]
+
 ...
 
 ```
 
 ### credits
 
-thanks to repository  [atebits/words](https://github.com/atebits/Words).
+thanks to repository  [atebits/words](https://github.com/atebits/Words) and [s0c5]<david.barinas.dev@gmail.com>.
+
 
 
 
